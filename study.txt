@@ -1,2 +1,4 @@
 study git is funny!
 嘿嘿嘿,我已经明白怎样使用gitHub了，还不是很熟悉，勤加练习命令才是哦！
+
+stupid monster.
