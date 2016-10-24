@@ -3,3 +3,5 @@ study git is funny!
 
 stupid monster.
 kill monster.
+
+version 1
